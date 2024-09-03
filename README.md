@@ -1,4 +1,4 @@
-codealpha_task3
+A/B Testing Analysis
 
 This repository contains the solution to the problem statement provided by CodeAlpha for the task of Data Science Intern.
 
